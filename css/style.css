@@ -6,26 +6,34 @@
 }
 
 .img1{
-    width: 700px;
+    width: 90px;
     
 }
 
-#log{
-   width: 20px;
+.sisten{
+
+  margin: 0px;
+  
+
 }
+
+.sisten {
+
+    margin: 0px;
+}
+
+
 .sot-impor{
     color: cornflowerblue;
+   font-family: 'Times New Roman';
+   margin: 0px;
    
 }
 
 h2 {
     font-size: 15px;
     font-weight: 2;
-}
-
-.little-title {
-
-    font-weight: 20;
+    font-family: 'Times New Roman';
 }
 
 
@@ -54,7 +62,7 @@ table, th, td {
   }
 
   table {
-    width: 100%;
+    width: 90%;
   }
 
   .barra {
@@ -70,9 +78,11 @@ table, th, td {
   .finish{ 
     text-align: center;
     background-color: blue;
-    height: 50%;
+    height: 100px;
     width: 100%;
+    border: 0cm;
   }
   .color {
     color: white
   }
+  
