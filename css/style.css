@@ -59,7 +59,10 @@ table, th, td {
 
   .barra {
     background-color: hwb(214 47% 1%);
+    color: white;
   }
+
+  
 
   .barra-2 {
     background-color:hsla(224, 22%, 90%, 0.959)
