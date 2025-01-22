@@ -1,10 +1,13 @@
 .title {
    
-    background-color: cornflowerblue;
+    background-color: hwb(199 54% 7%);
+    
  
 }
+
 .img1{
-    width: 400px;
+    width: 700px;
+    
 }
 
 #log{
@@ -22,7 +25,7 @@ h2 {
 
 .little-title {
 
-    font-size: 15px;
+    font-weight: 20;
 }
 
 
@@ -39,5 +42,34 @@ h3{
 }
 .risal {
     background-color: yellow;
-    font-weight: 20;
+    font-weight: 300;
 }
+
+.allin {
+    text-align: left;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  .barra {
+    background-color: hwb(214 47% 1%);
+  }
+
+  .barra-2 {
+    background-color:hsla(224, 22%, 90%, 0.959)
+  }
+  .finish{ 
+    text-align: center;
+    background-color: blue;
+    height: 50%;
+    width: 100%;
+  }
+  .color {
+    color: white
+  }
