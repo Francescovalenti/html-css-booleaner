@@ -3,11 +3,19 @@
     background-color: hwb(199 54% 7%);
     padding: 20px;
     padding-top: 20px;
- 
+   }
+
+.temp
+{  
+    width: 8%;
+    padding: 10px;
+    padding-top: 19px;
+   
+    
 }
 
 .img1{
-    width: 90px;
+    width:80px;
     
 }
 
@@ -69,6 +77,7 @@ table, th, td {
   .barra {
     background-color: hwb(214 47% 1%);
     color: white;
+    font-weight: 300px;
   }
 
   
